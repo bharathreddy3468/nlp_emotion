@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet", href="{{url_for('static', filename='css/index.css')}}">
+</head>
+<body>
+    <div id="div1">
+        <h1 id="predtxt">{{ prediction_text }}</h1>
+        <img src="{{full_img_path}}" alt="emoji", height="300", width="300"><br>
+        <form action="{{ url_for('home')}}">
+            <button  id="btn"><a href="index.html"><h3>home</h3></a></button><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        </form>
+    </div>
+</body>
+</html>
