@@ -43,7 +43,7 @@ def predict():
     prediction = model.predict(sen_array)[0]
     print(prediction)
 
-    output_dict = {'happy': ['"you are so happy"', 'happy.jpg'],
+    output_dict = {'anger': ['"you are so angry"', 'angry.jpg'],
                    'joy': ['"you are joyful"', 'joy.jpg'],
                    'love': ['"you are expressing your love"', 'love.png'],
                    'sadness': ['"you are so sad"', 'sad.png'],
