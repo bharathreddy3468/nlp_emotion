@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Emotion detection</title>
+    <link rel="stylesheet", href="{{url_for('static', filename='css/index.css')}}">
+</head>
+<body>
+<div id="div1">
+    <h1 id="heading">"Emotion Detector by Bharath Reddy"</h1>
+    <form action="{{ url_for('predict')}}"method="post">
+        <textarea id="text" name="message" id="message" cols="40" rows="20" placeholder="enter your message here"></textarea><br>
+        <button id="btn"><h3>submit</h3></button><br><br><br><br><br><br><br><br><br><br><br><br><br>
+    </form>
+    </div>
+</body>
+</html>
