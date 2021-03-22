@@ -21,8 +21,8 @@ def lem(sen):
 
 img_folder = os.path.join('static', 'images')
 app = Flask(__name__)
-model = joblib.load('D:\\py\\nlp_emotion.sav')
-cv = joblib.load('D:\\py\\vecfile.sav', 'r')
+model = joblib.load('nlp_emotion.sav')
+cv = joblib.load('vecfile.sav', 'r')
 app.config['img_folder'] = img_folder
 
 @app.route('/home')
