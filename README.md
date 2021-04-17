@@ -52,11 +52,13 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
     ├── output.html
 ├── Procfile
 ├── README.md
-├── app.py
-├── spam_classifier.ipynb
-├── spam_classifier.pkl
-├── vector_transform.pkl
+├── emotion_classifier.py
+├── nlp_emotion(2).ipynb
+├── nlp_emotion.ipynb
+├── nlp_emotion.sav
+├── nltk.txt
 ├── requirements.txt
+├── vecfile.sav
 ```
 
 ## Technologies Used
@@ -68,7 +70,7 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 
 ## Bug / Feature Request
 
-If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/Mandal-21/Flight-Price-Prediction/issues) here by including your search query and the expected result
+If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/bharathreddy3468/nlp_emotion/issues) here by including your search query and the expected result
 
 ## Future Scope
 
