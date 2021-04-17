@@ -13,11 +13,11 @@
 
 
 ## Demo
-Link: [https://spam-classifier-app.herokuapp.com/](https://bharaths-emotion-detector.herokuapp.com/)
+Link: [https://bharaths-emotion-detector.herokuapp.com/](https://bharaths-emotion-detector.herokuapp.com/)
 
-[![](https://imgur.com/TWkm0Sx.png)](https://spam-classifier-app.herokuapp.com/)
+[![](https://imgur.com/TWkm0Sx.png)](https://bharaths-emotion-detector.herokuapp.com/)
 
-[![](https://imgur.com/CqIHgUg.png)](https://spam-classifier-app.herokuapp.com/)
+[![](https://imgur.com/CqIHgUg.png)](https://bharaths-emotion-detector.herokuapp.com/)
 
 ## Overview
 This is a Flask app which helps in predicting whether a message is spam or not.
