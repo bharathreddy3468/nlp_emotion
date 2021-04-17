@@ -23,7 +23,7 @@ Link: [https://bharaths-emotion-detector.herokuapp.com/](https://bharaths-emotio
 
 
 ## Overview
-This is a Flask app which helps in predicting whether a message is spam or not.
+This is a Flask app which helps in predicting the emotion of a message.
 
 ## Motivation
 Learning Data science is not enough , showing what you have learned will make a difference. This pandemic helped me in learning data science and also this is my first end to end project.
