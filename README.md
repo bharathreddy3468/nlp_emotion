@@ -15,9 +15,12 @@
 ## Demo
 Link: [https://bharaths-emotion-detector.herokuapp.com/](https://bharaths-emotion-detector.herokuapp.com/)
 
-[![](https://imgur.com/TWkm0Sx.png)](https://bharaths-emotion-detector.herokuapp.com/)
+[![](https://imgur.com/OYDAzwV.png)](https://bharaths-emotion-detector.herokuapp.com/)
 
-[![](https://imgur.com/CqIHgUg.png)](https://bharaths-emotion-detector.herokuapp.com/)
+[![](https://imgur.com/YtmWIi7.png)](https://bharaths-emotion-detector.herokuapp.com/)
+
+[![](https://imgur.com/k2Bc9MF.png)](https://bharaths-emotion-detector.herokuapp.com/)
+
 
 ## Overview
 This is a Flask app which helps in predicting whether a message is spam or not.
