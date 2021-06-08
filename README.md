@@ -73,7 +73,6 @@ Our next step would be to follow the instruction given on [Heroku Documentation]
 If you find a bug (the website couldn't handle the query and / or gave undesired results), kindly open an [issue](https://github.com/bharathreddy3468/nlp_emotion/issues) here by including your search query and the expected result
 
 ## Future Scope
-
 * Use multiple Algorithms
 * Optimize Flask app.py
 * Front-End 
@@ -81,3 +80,6 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 ## Source
 * data is taken from kaggle 
 * got the knowledge of doing from krish naik youtube channel
+
+##License
+* MIT LICENSE
