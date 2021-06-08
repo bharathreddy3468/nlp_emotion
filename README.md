@@ -81,5 +81,5 @@ If you find a bug (the website couldn't handle the query and / or gave undesired
 * data is taken from kaggle 
 * got the knowledge of doing from krish naik youtube channel
 
-##License
+## License
 * MIT LICENSE
